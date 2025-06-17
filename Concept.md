@@ -60,7 +60,7 @@ To enable local Proof of Concept (PoC) development for the "AsciiArtify" project
 ## Demo
 
 > PoC repository:  
-> **https://github.com/<username>/AsciiArtify**
+> **https://github.com/vcorneroff/AsciiArtify**
 
 ### Quickstart Hello World with k3d
 
