@@ -78,7 +78,7 @@ kubectl apply -f manifests/hello.yaml
 kubectl get svc hello
 ```
 
-📝 Demo YAML: [`manifests/hello.yaml`](https://github.com/<username>/AsciiArtify/blob/main/manifests/hello.yaml)
+📝 Demo YAML: [`hello.yaml`](https://github.com/vcorneroff/AsciiArtify/blob/main/hello.yaml)
 
 ## Conclusions & Recommendations
 
@@ -94,6 +94,8 @@ kubectl get svc hello
 
 > ✅ We selected **k3d** for initial PoC deployment and will integrate GitHub Actions for future CI/CD workflows.
 
+## Demo
+![K3d Demo](./demo.gif)
 ---
 
 *Document prepared by AsciiArtify engineering team for Kubernetes PoC environment selection.*
