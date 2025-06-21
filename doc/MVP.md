@@ -36,7 +36,7 @@ This ensures continuous delivery and reliability of the deployment process.
 
 ---
 
-### 📹 ArgoCD Auto-Sync Demo
+### ArgoCD Auto-Sync Demo
 
 > Demonstrates auto-sync in ArgoCD after pushing a change to GitHub.
 
@@ -45,3 +45,25 @@ This ensures continuous delivery and reliability of the deployment process.
 ---
 
 ## Repository Structure
+.
+├── manifests/
+│ └── hello.yaml 
+├── doc/
+   └── MVP.md # This file
+   └── POC.md
+   └── Concept.md
+   └── demo.gif
+
+
+## Deliverables Checklist
+
+- [x] Completed PoC and infrastructure setup
+- [x] MVP deployment via ArgoCD
+- [x] Application functionality demo video
+- [x] ArgoCD auto-sync demo video
+
+## GitHub Repository
+
+**Project Repository:**  
+[https://github.com/vcorneroff/AsciiArtify](https://github.com/vcorneroff/AsciiArtify)
+
