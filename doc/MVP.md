@@ -32,7 +32,7 @@ This ensures continuous delivery and reliability of the deployment process.
 
 > A short demo showing the deployed application running on Kubernetes.
 
-[![App Demo]((mvp.mp4))](mvp.mp4)
+[![App Demo](https://youtu.be/_LwPy3ROrZw)](https://youtu.be/_LwPy3ROrZw)
 
 ---
 
@@ -40,7 +40,7 @@ This ensures continuous delivery and reliability of the deployment process.
 
 > Demonstrates auto-sync in ArgoCD after pushing a change to GitHub.
 
-[![App Demo]((mvp.mp4))](mvp.mp4)
+[![Sync Demo](https://youtu.be/_LwPy3ROrZw)](https://youtu.be/_LwPy3ROrZw)
 
 ---
 
