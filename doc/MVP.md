@@ -32,7 +32,7 @@ This ensures continuous delivery and reliability of the deployment process.
 
 > A short demo showing the deployed application running on Kubernetes.
 
-[![App Demo](https://img.freepik.com/premium-vector/youtube-icon-illustration-youtube-app-logo-social-media-icon_561158-3674.jpg)](https://youtu.be/_LwPy3ROrZw)
+[![App Demo](https://img.youtube.com/vi/_LwPy3ROrZw/0.jpg)](https://youtu.be/_LwPy3ROrZw)
 
 ---
 
@@ -40,7 +40,7 @@ This ensures continuous delivery and reliability of the deployment process.
 
 > Demonstrates auto-sync in ArgoCD after pushing a change to GitHub.
 
-[![Sync Demo](https://img.freepik.com/premium-vector/youtube-icon-illustration-youtube-app-logo-social-media-icon_561158-3674.jpg)](https://youtu.be/_LwPy3ROrZw)
+[![Sync Demo](https://img.youtube.com/vi/_LwPy3ROrZw/0.jpg)](https://youtu.be/_LwPy3ROrZw)
 
 ---
 
