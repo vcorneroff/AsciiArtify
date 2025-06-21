@@ -45,6 +45,7 @@ This ensures continuous delivery and reliability of the deployment process.
 ---
 
 ## Repository Structure
+```
 .
 ├── manifests/
 │ └── hello.yaml 
@@ -53,7 +54,7 @@ This ensures continuous delivery and reliability of the deployment process.
    └── POC.md
    └── Concept.md
    └── demo.gif
-
+```
 
 ## Deliverables Checklist
 
